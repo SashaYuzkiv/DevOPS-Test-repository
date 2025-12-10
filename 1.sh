@@ -1,2 +1,2 @@
 #!/bin/bash
-echo 'Hello  DevOPS'
+echo 'Hello DevOPS community from Ukraine'
